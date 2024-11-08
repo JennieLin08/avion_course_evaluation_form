@@ -19,6 +19,9 @@ body{
 input,
 select {
     height: 40px;
+    border-bottom:1px solid black !important;
+    border: none;
+
 }
 
 input[type=radio] {

@@ -22,20 +22,16 @@ select {
 }
 
 input[type=radio] {
-
     height: 3em;
 }
 #div_form{
-    opacity: .8;
+    /* opacity: .8; */
         border-radius: 20px;
 }
 
-
-
-
 footer {
     background: rgb(31, 108, 184);
-    background: linear-gradient(143deg, rgb(71, 103, 134) 0%, rgba(173, 201, 190, 0.9416141456582633) 56%);
+    /* background: linear-gradient(143deg, rgb(71, 103, 134) 0%, rgba(173, 201, 190, 0.9416141456582633) 56%); */
     font-size: 20px;
     position: fixed;
     height: 50px;

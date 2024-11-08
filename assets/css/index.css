@@ -7,6 +7,7 @@
     font-style: normal;
     text-align: center;
     box-sizing: border-box;
+    font-color:black;
 }
 
 body{
@@ -22,6 +23,11 @@ select {
     border-bottom:1px solid black !important;
     border: none;
 
+}
+
+input:focus,select:focus{
+    border-bottom: 1px solid lightseagreen !important;
+        outline: none !important;
 }
 
 input[type=radio] {
